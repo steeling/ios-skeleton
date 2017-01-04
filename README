@@ -2,3 +2,6 @@ This is an iOS skeleton. Multiple branches will have multiple features, ie: fire
 The master branch will have generic features, ie: dev targets
 
 Dev enviroment set following http://www.appcoda.com/using-xcode-targets/
+
+Firebase setup steps:
+Create app in firebase console, add the plist to all targets
